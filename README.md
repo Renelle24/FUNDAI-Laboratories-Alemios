@@ -1,6 +1,7 @@
-# FUNDAI-Laboratories-GAYO
+ FUNDAI-Laboratories-Alemios
+ FUNDAI Laboratory Outputs
 
-## Student Information
+ Student Information
 - Name:Renelle Alemios
 - Course: CS-FUNDAI
 - Section: 09282-FUNDAI
